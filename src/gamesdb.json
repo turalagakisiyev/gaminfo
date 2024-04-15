@@ -1,0 +1,865 @@
+[
+    {
+        "id": 0,
+        "title": "Elden Ring",
+        "genre": "Action RPG",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X/S"
+        ],
+        "release_date": "2022-02-25",
+        "developer": "FromSoftware",
+        "publisher": "Bandai Namco Entertainment",
+        "rating": 9.0,
+        "description": "Elden Ring, FromSoftware tarafından geliştirilen ve Bandai Namco Entertainment tarafından yayımlanan bir aksiyon rol yapma oyunudur. Oyunun dünyası Hidetaka Miyazaki ve George R. R. Martin tarafından yaratıldı. Oyuncular, yıkılmış bir dünyada dolaşırken tehlikelerle dolu maceralara atılırlar. Elden Ring, derin ve gizemli bir hikaye ile oyuncuları etkilemeyi amaçlıyor.",
+        "image": "https://storage.oyungezer.com.tr/ogz-public/public/game/949/cover_6229cf58b5058_949.jpg",
+        "trailer": "https://www.youtube.com/watch?v=E3Huy2cdih0"
+    },
+    {
+        "id": 1,
+        "title": "The Witcher 3: Wild Hunt",
+        "genre": "Action RPG",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "release_date": "2015-05-19",
+        "developer": "CD Projekt Red",
+        "publisher": "CD Projekt",
+        "rating": 9.3,
+        "description": "The Witcher 3: Wild Hunt, CD Projekt Red tarafından geliştirilen ve CD Projekt tarafından yayımlanan bir aksiyon rol yapma oyunudur. Oyuncular, Cadı Avı Geralt'ı kontrol eder ve geniş bir açık dünyada maceraya atılır. Kendine özgü hikaye anlatımı ve büyüleyici grafikleriyle tanınır.",
+        "image": "https://hot.game/uploads/media/game/0001/23/thumb_22813_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=YdHc3JZixRY&t=146s"
+    },
+    {
+        "id": 2,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "genre": "Action-adventure",
+        "platform": [
+            "Nintendo Switch",
+            "Wii U"
+        ],
+        "release_date": "2017-03-03",
+        "developer": "Nintendo EPD",
+        "publisher": "Nintendo",
+        "rating": 9.5,
+        "description": "The Legend of Zelda: Breath of the Wild, Nintendo tarafından geliştirilen ve Nintendo tarafından yayımlanan bir aksiyon-macera oyunudur. Oyun, eşsiz bir açık dünya deneyimi sunar ve oyuncuları Hyrule krallığını keşfetmeye ve yüzyıllık düşmanları Ganon'u yenmeye çağırır.",
+        "image": "https://hot.game/uploads/media/game/0001/08/thumb_7896_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=-AQcohxrdpw"
+    },
+    {
+        "id": 3,
+        "title": "Red Dead Redemption 2",
+        "genre": "Action-adventure",
+        "platform": [
+            "PlayStation 4",
+            "Xbox One",
+            "PC",
+            "Stadia"
+        ],
+        "release_date": "2018-10-26",
+        "developer": "Rockstar Studios",
+        "publisher": "Rockstar Games",
+        "rating": 9.8,
+        "description": "Red Dead Redemption 2, Rockstar Studios tarafından geliştirilen ve Rockstar Games tarafından yayımlanan bir aksiyon-macera oyunudur. Amerikan vahşi batısında geçen epik bir hikaye sunar ve oyuncuları Arthur Morgan olarak tanımlanmış bir haydutun yerine geçirir.",
+        "image": "https://hot.game/uploads/media/game/0001/12/thumb_11711_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=Dw_oH5oiUSE"
+    },
+    {
+        "id": 4,
+        "title": "Dark Souls III",
+        "genre": "Action RPG",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "release_date": "2016-04-12",
+        "developer": "FromSoftware",
+        "publisher": "Bandai Namco Entertainment",
+        "rating": 9.1,
+        "description": "Dark Souls III, FromSoftware tarafından geliştirilen ve Bandai Namco Entertainment tarafından yayımlanan bir aksiyon rol yapma oyunudur. Karanlık ve zorlu bir fantezi dünyasında geçer ve oyuncuları zorlu düşmanlarla dolu bir yolculuğa çıkarır.",
+        "image": "https://hot.game/uploads/media/game/0001/34/thumb_33869_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=_zDZYrIUgKE"
+    },
+    {
+        "id": 5,
+        "title": "Hollow Knight",
+        "genre": "Platformer",
+        "platform": [
+            "PC",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "release_date": "2017-02-24",
+        "developer": "Team Cherry",
+        "publisher": "Team Cherry",
+        "rating": 9.0,
+        "description": "Hollow Knight, Team Cherry tarafından geliştirilen ve Team Cherry tarafından yayımlanan bir metroidvania oyunudur. Yeraltı bir dünyada geçen bu oyun, oyuncuları çekici bir atmosfer ve zorlu platform oyun deneyimi ile karşılar.",
+        "image": "https://hot.game/uploads/media/game/0001/27/thumb_26479_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=UAO2urG23S4"
+    },
+    {
+        "id": 6,
+        "title": "Grand Theft Auto V",
+        "genre": "Action-adventure",
+        "platform": [
+            "PlayStation 3",
+            "PlayStation 4",
+            "Xbox 360",
+            "Xbox One",
+            "PC"
+        ],
+        "release_date": "2013-09-17",
+        "developer": "Rockstar North",
+        "publisher": "Rockstar Games",
+        "rating": 9.6,
+        "description": "Grand Theft Auto V, Rockstar North tarafından geliştirilen ve Rockstar Games tarafından yayımlanan bir aksiyon-macera oyunudur. Modern bir suç draması sunar ve oyuncuları Los Santos şehrinde bir dizi tehlikeli görevle karşı karşıya getirir.",
+        "image": "https://hot.game/uploads/media/game/0001/10/thumb_9474_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=N-xHcvug3WI"
+    },
+    {
+        "id": 7,
+        "title": "Persona 5",
+        "genre": "Role-playing",
+        "platform": [
+            "PlayStation 3",
+            "PlayStation 4"
+        ],
+        "release_date": "2016-09-15",
+        "developer": "Atlus",
+        "publisher": "Atlus",
+        "rating": 9.7,
+        "description": "Persona 5, Atlus tarafından geliştirilen ve Atlus tarafından yayımlanan bir rol yapma oyunudur. Modern bir Japon lisesinde geçer ve oyuncuları bir grup lise öğrencisinin gizli çift yaşamına katılmaya davet eder.",
+        "image": "https://hot.game/uploads/media/game/0001/32/thumb_31225_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=wPqSkzNNPIg"
+    },
+    {
+        "id": 8,
+        "title": "Bloodborne",
+        "genre": "Action RPG",
+        "platform": [
+            "PlayStation 4"
+        ],
+        "release_date": "2015-03-24",
+        "developer": "FromSoftware",
+        "publisher": "Sony Computer Entertainment",
+        "rating": 9.4,
+        "description": "Bloodborne, FromSoftware tarafından geliştirilen ve Sony Computer Entertainment tarafından yayımlanan bir aksiyon rol yapma oyunudur. Gotik bir korku atmosferinde geçer ve oyuncuları karanlık ve gizemli bir şehir olan Yharnam'ı keşfetmeye çağırır.",
+        "image": "https://hot.game/uploads/media/game/0001/28/thumb_27941_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=_5o8jwqKsDE"
+    },
+    {
+        "id": 9,
+        "title": "Super Mario Odyssey",
+        "genre": "Platformer",
+        "platform": [
+            "Nintendo Switch"
+        ],
+        "release_date": "2017-10-27",
+        "developer": "Nintendo EPD",
+        "publisher": "Nintendo",
+        "rating": 9.5,
+        "description": "Super Mario Odyssey, Nintendo tarafından geliştirilen ve Nintendo tarafından yayımlanan bir platform oyunudur. Oyun, ikonik karakter Mario'yu kontrol eder ve oyunculara renkli ve eğlenceli bir macera sunar.",
+        "image": "https://hot.game/uploads/media/game/0001/72/thumb_71822_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=wGQHQc_3ycE"
+    },
+    {
+        "id": 10,
+        "title": "Horizon Zero Dawn",
+        "genre": "Action RPG",
+        "platform": [
+            "PlayStation 4",
+            "PC"
+        ],
+        "release_date": "2017-02-28",
+        "developer": "Guerrilla Games",
+        "publisher": "Sony Interactive Entertainment",
+        "rating": 9.2,
+        "description": "Horizon Zero Dawn, Guerrilla Games tarafından geliştirilen ve Sony Interactive Entertainment tarafından yayımlanan bir aksiyon rol yapma oyunudur. Oyuncuları post-apokaliptik bir dünyaya götürür ve Aloy adlı bir avcının hikayesini anlatır.",
+        "image": "https://hot.game/uploads/media/game/0001/11/thumb_10836_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=lwI6-jKlsO0"
+    },
+    {
+        "id": 11,
+        "title": "Uncharted 4: A Thief's End",
+        "genre": "Action-adventure",
+        "platform": [
+            "PlayStation 4"
+        ],
+        "release_date": "2016-05-10",
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive Entertainment",
+        "rating": 9.7,
+        "description": "Uncharted 4: A Thief's End, Naughty Dog tarafından geliştirilen ve Sony Interactive Entertainment tarafından yayımlanan bir aksiyon-macera oyunudur. Nathan Drake'in son macerası olan bu oyun, nefes kesici aksiyon ve etkileyici hikayesiyle oyuncuları ekrana kilitlemeye devam ediyor.",
+        "image": "https://hot.game/uploads/media/game/0001/06/thumb_5286_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=sB0xy74Zrj8&t=743s"
+    },
+    {
+        "id": 12,
+        "title": "The Elder Scrolls V: Skyrim",
+        "genre": "Action RPG",
+        "platform": [
+            "PC",
+            "PlayStation 3",
+            "PlayStation 4",
+            "Xbox 360",
+            "Xbox One",
+            "Nintendo Switch"
+        ],
+        "release_date": "2011-11-11",
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks",
+        "rating": 9.4,
+        "description": "The Elder Scrolls V: Skyrim, Bethesda Game Studios tarafından geliştirilen ve Bethesda Softworks tarafından yayımlanan bir aksiyon rol yapma oyunudur. Skyrim'in geniş ve açık dünyası, oyunculara sonsuz keşif ve macera imkanı sunar. Oyun, büyüleyici bir fantastik evrene dalmanızı sağlar.",
+        "image": "https://hot.game/uploads/media/game/0001/05/thumb_4490_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=PjqsYzBrP-M"
+    },
+    {
+        "id": 13,
+        "title": "The Last of Us Part II",
+        "genre": "Action-adventure",
+        "platform": [
+            "PlayStation 4"
+        ],
+        "release_date": "2020-06-19",
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive Entertainment",
+        "rating": 9.6,
+        "description": "The Last of Us Part II, Naughty Dog tarafından geliştirilen ve Sony Interactive Entertainment tarafından yayımlanan bir aksiyon-macera oyunudur. Bu devam oyunu, Ellie'nin sürükleyici ve duygusal bir hikayesiyle oyuncuları zorlu bir yolculuğa çıkarıyor.",
+        "image": "https://hot.game/uploads/media/game/0001/25/thumb_24466_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=btmN-bWwv0A"
+    },
+    {
+        "id": 14,
+        "title": "God of War (2018)",
+        "genre": "Action-adventure",
+        "platform": [
+            "PlayStation 4"
+        ],
+        "release_date": "2018-04-20",
+        "developer": "Santa Monica Studio",
+        "publisher": "Sony Interactive Entertainment",
+        "rating": 9.7,
+        "description": "God of War (2018), Santa Monica Studio tarafından geliştirilen ve Sony Interactive Entertainment tarafından yayımlanan bir aksiyon-macera oyunudur. Efsanevi Spartan savaşçısı Kratos'un bu yeniden başlatma oyunu, klasik serinin çarpıcı grafikleri ve sürükleyici hikayesiyle hayranlarına büyüleyici bir deneyim sunar.",
+        "image": "https://hot.game/uploads/media/game/0001/10/thumb_9986_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=CJ_GCPaKywg"
+    },
+    {
+        "id": 15,
+        "title": "Final Fantasy VII Remake",
+        "genre": "Action RPG",
+        "platform": [
+            "PlayStation 4",
+            "PC"
+        ],
+        "release_date": "2020-04-10",
+        "developer": "Square Enix",
+        "publisher": "Square Enix",
+        "rating": 9.5,
+        "description": "Final Fantasy VII Remake, Square Enix tarafından geliştirilen ve yayımlanan bir aksiyon rol yapma oyunudur. Bu yeniden yapım, orijinal oyunun unutulmaz hikayesini modern grafikler ve oynanabilirlikle tekrar canlandırıyor.",
+        "image": "https://hot.game/uploads/media/game/0001/33/thumb_32130_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=sz9QWTcbXYE"
+    },
+    {
+        "id": 16,
+        "title": "NieR: Automata",
+        "genre": "Action RPG",
+        "platform": [
+            "PlayStation 4",
+            "PC",
+            "Xbox One"
+        ],
+        "release_date": "2017-02-23",
+        "developer": "PlatinumGames",
+        "publisher": "Square Enix",
+        "rating": 9.0,
+        "description": "NieR: Automata, PlatinumGames tarafından geliştirilen ve Square Enix tarafından yayımlanan bir aksiyon rol yapma oyunudur. Bu oyun, zengin bir hikaye anlatımı ve çeşitli oyun mekanikleriyle oyuncuları etkileyici bir deneyime davet eder.",
+        "image": "https://hot.game/uploads/media/game/0001/06/thumb_5508_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=BPnAEHHPPz0"
+    },
+    {
+        "id": 17,
+        "title": "Sekiro: Shadows Die Twice",
+        "genre": "Action-adventure",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "release_date": "2019-03-22",
+        "developer": "FromSoftware",
+        "publisher": "Activision",
+        "rating": 9.2,
+        "description": "Sekiro: Shadows Die Twice, FromSoftware tarafından geliştirilen ve Activision tarafından yayımlanan bir aksiyon-macera oyunudur. Bu zorlu aksiyon oyunu, oyunculara Japonya'nın savaş dönemi atmosferinde geçen nefes kesici bir deneyim sunar.",
+        "image": "https://hot.game/uploads/media/game/0001/13/thumb_12293_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=Rx8pbCN1OcU"
+    },
+    {
+        "id": 18,
+        "title": "Assassin's Creed Odyssey",
+        "genre": "Action RPG",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "release_date": "2018-10-05",
+        "developer": "Ubisoft Quebec",
+        "publisher": "Ubisoft",
+        "rating": 8.9,
+        "description": "Assassin's Creed Odyssey, Ubisoft Quebec tarafından geliştirilen ve Ubisoft tarafından yayımlanan bir aksiyon rol yapma oyunudur. Antik Yunanistan'da geçen bu oyun, oyunculara epik bir yolculuk ve gizemli mitolojik yaratıklarla dolu bir macera sunar.",
+        "image": "https://hot.game/uploads/media/game/0001/33/thumb_32809_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=6F8L3d_OIE0"
+    },
+    {
+        "id": 19,
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "genre": "Action-adventure",
+        "platform": [
+            "Nintendo 64",
+            "GameCube",
+            "Virtual Console",
+            "Nintendo 3DS"
+        ],
+        "release_date": "1998-11-21",
+        "developer": "Nintendo EAD",
+        "publisher": "Nintendo",
+        "rating": 9.8,
+        "description": "The Legend of Zelda: Ocarina of Time, Nintendo tarafından geliştirilen ve Nintendo tarafından yayımlanan bir aksiyon-macera oyunudur. Bu klasik oyun, efsanevi kahraman Link'in zaman yolculuğu macerasını anlatır ve bir neslin kalbinde özel bir yer edinmiştir.",
+        "image": "https://hot.game/uploads/media/game/0001/62/thumb_61388_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=_NElFLzgdUs"
+    },
+    {
+        "id": 20,
+        "title": "Minecraft",
+        "genre": "Platformer",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch",
+            "iOS",
+            "Android"
+        ],
+        "release_date": "2009-11-18",
+        "developer": "Mojang Studios",
+        "publisher": "Mojang Studios",
+        "rating": 9.0,
+        "description": "Minecraft, Mojang Studios tarafından geliştirilen ve yayımlanan bir sandbox oyunudur. Bu eşsiz oyun, oyunculara sonsuz bir yaratıcılık ve keşif imkanı sunar, kendi dünyalarını inşa etmelerine ve maceralara atılmalarına izin verir.",
+        "image": "https://hot.game/uploads/media/game/0001/28/thumb_27274_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=MmB9b5njVbA"
+    },
+    {
+        "id": 21,
+        "title": "Super Smash Bros. Ultimate",
+        "genre": "Fighting",
+        "platform": [
+            "Nintendo Switch"
+        ],
+        "release_date": "2018-12-07",
+        "developer": "Bandai Namco Studios, Sora Ltd.",
+        "publisher": "Nintendo",
+        "rating": 9.6,
+        "description": "Super Smash Bros. Ultimate, Bandai Namco Studios ve Sora Ltd. tarafından geliştirilen ve Nintendo tarafından yayımlanan bir dövüş oyunudur. Bu efsanevi serinin son oyunu, Nintendo'nun tüm zamanların en büyük dövüş oyunlarından birini sunar. Oyuncular, sevdikleri Nintendo karakterleriyle bir araya gelerek epik dövüşler yapabilir ve unutulmaz bir deneyim yaşayabilirler.",
+        "image": "https://hot.game/uploads/media/game/0001/82/thumb_81821_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=bHjX3-8aRPU"
+    },
+    {
+        "id": 22,
+        "title": "Pokémon Sword and Shield",
+        "genre": "Role-playing",
+        "platform": [
+            "Nintendo Switch"
+        ],
+        "release_date": "2019-11-15",
+        "developer": "Game Freak",
+        "publisher": "Nintendo, The Pokémon Company",
+        "rating": 8.8,
+        "description": "Pokémon Sword and Shield, Game Freak tarafından geliştirilen ve Nintendo ile The Pokémon Company tarafından yayımlanan bir rol yapma oyunudur. Bu yeni nesil Pokémon oyunu, Galar bölgesindeki maceraya atılan oyunculara geniş ve keşfedilmeyi bekleyen bir dünya sunar. Yeni Pokémon türleri ve özellikleri keşfedin ve rakiplerinizle dövüşmek için takımınızı kurun.",
+        "image": "https://hot.game/uploads/media/game/0001/84/thumb_83210_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=uBYORdr_TY8"
+    },
+    {
+        "id": 23,
+        "title": "Death Stranding",
+        "genre": "Action-adventure",
+        "platform": [
+            "PlayStation 4",
+            "PC"
+        ],
+        "release_date": "2019-11-08",
+        "developer": "Kojima Productions",
+        "publisher": "Sony Interactive Entertainment",
+        "rating": 8.7,
+        "description": "Death Stranding, Kojima Productions tarafından geliştirilen ve Sony Interactive Entertainment tarafından yayımlanan bir aksiyon oyunudur. Bu gizemli ve sıradışı oyun, oyuncuları bir posta teslimatçısı olarak zorlu bir yolculuğa çıkarır. Gizemli yaratıklar ve zorlu manzaralarla dolu bu dünyada, hayatta kalmak için strateji ve zekaya ihtiyacınız olacak.",
+        "image": "https://hot.game/uploads/media/game/0001/24/thumb_23837_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=5pG6HrnVOJE"
+    },
+    {
+        "id": 24,
+        "title": "Final Fantasy XV",
+        "genre": "Action RPG",
+        "platform": [
+            "PlayStation 4",
+            "Xbox One",
+            "PC"
+        ],
+        "release_date": "2016-11-29",
+        "developer": "Square Enix Business Division 2",
+        "publisher": "Square Enix",
+        "rating": 8.9,
+        "description": "Final Fantasy XV, Square Enix Business Division 2 tarafından geliştirilen ve Square Enix tarafından yayımlanan bir aksiyon rol yapma oyunudur. Bu oyun, oyuncuları büyülü bir dünyaya götürür ve Prens Noctis'in zorlu bir görevle başa çıkmasını sağlar. Epik savaşlar, büyülü manzaralar ve unutulmaz karakterlerle dolu bir macera sizi bekliyor.",
+        "image": "https://hot.game/uploads/media/game/0001/07/thumb_6831_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=fGdPVsTliT8"
+    },
+    {
+        "id": 25,
+        "title": "Portal 2",
+        "genre": "Platformer",
+        "platform": [
+            "PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ],
+        "release_date": "2011-04-19",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "rating": 9.5,
+        "description": "Portal 2, Valve tarafından geliştirilen ve yayımlanan bir bulmaca-platform oyunudur. Bu eğlenceli ve zekice oyun, oyuncuları zorlu labirentler ve bulmacalarla dolu bir dünyaya götürür. Portal tabancasıyla yeni yol ve çözümler keşfedin ve sürükleyici hikayeyi tamamlayın.",
+        "image": "https://hot.game/uploads/media/game/0001/04/thumb_3497_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=ts-j0nFf2e0"
+    },
+    {
+        "id": 26,
+        "title": "The Elder Scrolls IV: Oblivion",
+        "genre": "Action RPG",
+        "platform": [
+            "PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ],
+        "release_date": "2006-03-20",
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks",
+        "rating": 9.3,
+        "description": "The Elder Scrolls IV: Oblivion, Bethesda Game Studios tarafından geliştirilen ve Bethesda Softworks tarafından yayımlanan bir aksiyon rol yapma oyunudur. Bu epik rol yapma oyunu, oyuncuları Tamriel dünyasına götürür ve unutulmaz bir maceraya davet eder. Ejderha taşları, büyülü silahlar ve unutulmaz karakterlerle dolu bir dünya sizi bekliyor.",
+        "image": "https://hot.game/uploads/media/game/0001/08/thumb_7010_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=Q2-6vi9k65o"
+    },
+    {
+        "id": 27,
+        "title": "Half-Life 2",
+        "genre": "First-person shooter",
+        "platform": [
+            "PC",
+            "PlayStation 3",
+            "Xbox"
+        ],
+        "release_date": "2004-11-16",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "rating": 9.7,
+        "description": "Half-Life 2, Valve tarafından geliştirilen ve yayımlanan bir birinci şahıs nişancı oyunudur. Bu efsanevi oyun, oyuncuları benzersiz bir bilim kurgu dünyasına götürür ve unutulmaz bir deneyim sunar. Sürükleyici hikaye, yenilikçi oyun mekaniği ve etkileyici grafiklerle dolu bir oyun sizi bekliyor.",
+        "image": "https://hot.game/uploads/media/game/0001/07/thumb_6897_game_poster2.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=UKA7JkV51Jw"
+    },
+    {
+        "id": 28,
+        "title": "Super Mario 64",
+        "genre": "Platformer",
+        "platform": [
+            "Nintendo 64"
+        ],
+        "release_date": "1996-06-23",
+        "developer": "Nintendo EAD",
+        "publisher": "Nintendo",
+        "rating": 9.5,
+        "description": "Super Mario 64, Nintendo tarafından geliştirilen ve yayımlanan bir platform oyunudur. Bu efsanevi oyun, 3D platform türünün öncüsü olarak kabul edilir ve oyuncuları büyülü bir dünyaya götürür. Mario'nun unutulmaz macerası, platform oyunları sevenler için eşsiz bir deneyim sunar.",
+        "image": "https://i.playground.ru/e/N9vWKj4GbIa3Lqjpn-QMCQ.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=8Fk5sRwbEWI"
+    },
+    {
+        "id": 29,
+        "title": "BioShock",
+        "genre": "First-person shooter",
+        "platform": [
+            "PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ],
+        "release_date": "2007-08-21",
+        "developer": "2K Boston, 2K Australia",
+        "publisher": "2K Games",
+        "rating": 9.4,
+        "description": "BioShock, 2K Boston ve 2K Australia tarafından geliştirilen ve 2K Games tarafından yayımlanan bir birinci şahıs nişancı oyunudur. Bu derin ve atmosferik oyun, oyuncuları Rapture adlı bir şehre götürür ve gizemli bir hikayenin içine çeker. Yenilikçi oyun mekaniği ve etkileyici dünya tasarımıyla dolu unutulmaz bir deneyim sizi bekliyor.",
+        "image": "https://hot.game/uploads/media/game/0001/13/thumb_12958_game_poster2.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=rrqfPG4ZcAA"
+    },
+    {
+        "id": 30,
+        "title": "Metal Gear Solid V: The Phantom Pain",
+        "genre": "Action-adventure",
+        "platform": [
+            "PlayStation 3",
+            "PlayStation 4",
+            "Xbox 360",
+            "Xbox One",
+            "PC"
+        ],
+        "release_date": "2015-09-01",
+        "developer": "Kojima Productions",
+        "publisher": "Konami",
+        "rating": 9.1,
+        "description": "Metal Gear Solid V: The Phantom Pain, Kojima Productions tarafından geliştirilen ve Konami tarafından yayımlanan bir aksiyon-macera oyunudur. Bu heyecan verici oyun, oyuncuları bir özel kuvvetler askeri olarak zorlu görevlerle dolu bir dünyaya götürür. Gizemli hikaye, derin karakterler ve unutulmaz oyun mekaniğiyle dolu bir deneyim sizi bekliyor.",
+        "image": "https://hot.game/uploads/media/game/0001/03/thumb_2778_game_poster.png",
+        "trailer": "https://www.youtube.com/watch?v=T7CVdopk_pY"
+    },
+    {
+        "id": 31,
+        "title": "Mass Effect 2",
+        "genre": "Action RPG",
+        "platform": [
+            "PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ],
+        "release_date": "2010-01-26",
+        "developer": "BioWare",
+        "publisher": "Electronic Arts",
+        "rating": 9.6,
+        "description": "Mass Effect 2, BioWare tarafından geliştirilen ve Electronic Arts tarafından yayımlanan bir aksiyon rol yapma oyunudur. Bu heyecan verici devam oyunu, oyuncuları galaksiyi keşfetmeye ve ekip üyeleriyle bağlantı kurmaya davet ediyor. Epik hikaye, derin karakterler ve zengin dünya, oyunculara unutulmaz bir deneyim sunuyor.",
+        "image": "https://hot.game/uploads/media/game/0001/05/thumb_4221_game_poster2.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=lx9sPQpjgjU"
+    },
+    {
+        "id": 32,
+        "title": "The Legend of Zelda: A Link to the Past",
+        "genre": "Action-adventure",
+        "platform": [
+            "Super Nintendo Entertainment System",
+            "Game Boy Advance",
+            "Virtual Console",
+            "Nintendo 3DS"
+        ],
+        "release_date": "1991-11-21",
+        "developer": "Nintendo EAD",
+        "publisher": "Nintendo",
+        "rating": 9.0,
+        "description": "The Legend of Zelda: A Link to the Past, Nintendo tarafından geliştirilen ve Nintendo tarafından yayımlanan bir aksiyon-macera oyunudur. Bu efsanevi oyun, oyuncuları Hyrule krallığına götürür ve kahraman Link'in heyecan verici macerasına katılır. Zorlu bulmacaları çözün, canavarları yenin ve prensesi kurtarın!",
+        "image": "https://cdn.kobo.com/book-images/a4f49ef9-2acb-4002-b5d2-736c51b38a46/1200/1200/False/the-ultimate-guide-to-the-legend-of-zelda-a-link-to-the-past.jpg",
+        "trailer": "https://www.youtube.com/watch?v=wg1MXUZC2_E"
+    },
+    {
+        "id": 33,
+        "title": "Chrono Trigger",
+        "genre": "Role-playing",
+        "platform": [
+            "Super Nintendo Entertainment System",
+            "Nintendo DS",
+            "iOS",
+            "Android",
+            "Virtual Console"
+        ],
+        "release_date": "1995-03-11",
+        "developer": "Square",
+        "publisher": "Square",
+        "rating": 9.5,
+        "description": "Chrono Trigger, Square tarafından geliştirilen ve yayımlanan bir rol yapma oyunudur. Bu klasik oyun, zaman yolculuğuna çıkan bir grup kahramanın epik macerasını anlatıyor. Eşsiz savaş sistemi, derin hikaye ve çoklu sonlarla dolu unutulmaz bir deneyim sizi bekliyor.",
+        "image": "https://hot.game/uploads/media/game/0001/100/thumb_99616_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=2fl-AylaHY8"
+    },
+    {
+        "id": 34,
+        "title": "Resident Evil 4",
+        "genre": "Action-adventure",
+        "platform": [
+            "GameCube",
+            "PlayStation 2",
+            "Wii",
+            "PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ],
+        "release_date": "2005-01-11",
+        "developer": "Capcom",
+        "publisher": "Capcom",
+        "rating": 9.6,
+        "description": "Resident Evil 4, Capcom tarafından geliştirilen ve yayımlanan bir hayatta kalma korku oyunudur. Bu oyun, Leon Kennedy'nin korku dolu bir köyde ve birçok tehlikeli düşmanla dolu bir Avrupa kasabasında yaşadığı kabusu anlatıyor. Gerilim dolu anlar ve zorlu bulmacalarla dolu bir deneyim yaşayın!",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/Resi4-gc-cover.jpg",
+        "trailer": "https://www.youtube.com/watch?v=d6YSwVWqWWY"
+    },
+    {
+        "id": 35,
+        "title": "The Last of Us: Part I",
+        "genre": "Action-adventure",
+        "platform": [
+            "PlayStation 3",
+            "PlayStation 4"
+        ],
+        "release_date": "2023-06-14",
+        "developer": "Naughty Dog",
+        "publisher": "Sony Computer Entertainment",
+        "rating": 9.7,
+        "description": "The Last of Us, Naughty Dog tarafından geliştirilen ve Sony Computer Entertainment tarafından yayımlanan bir aksiyon-macera oyunudur. Bu unutulmaz oyun, Joel ve Ellie'nin hayatta kalma mücadelesini anlatıyor. Zombi istilası altındaki bir dünyada, hayatta kalmak için zekice stratejiler geliştirin ve duygusal bağlara sahip olun.",
+        "image": "https://hot.game/uploads/media/game/0002/08/thumb_107126_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=HGF_rWN4cws"
+    },
+    {
+        "id": 36,
+        "title": "Batman: Arkham City",
+        "genre": "Action-adventure",
+        "platform": [
+            "PlayStation 3",
+            "Xbox 360",
+            "PC",
+            "Wii U",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "release_date": "2011-10-18",
+        "developer": "Rocksteady Studios",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "rating": 9.3,
+        "description": "Batman: Arkham City, Rocksteady Studios tarafından geliştirilen ve Warner Bros. Interactive Entertainment tarafından yayımlanan bir aksiyon-macera oyunudur. Bu oyun, Gotham City'nin suçla dolu sokaklarında Batman olarak dolaşmanıza izin verir. Yenilikçi savaş sistemi, zengin hikaye ve ikonik karakterlerle dolu bir deneyim sizi bekliyor.",
+        "image": "https://hot.game/uploads/media/game/0001/10/thumb_9370_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=MlX--IPxTRU"
+    },
+    {
+        "id": 37,
+        "title": "Super Mario Bros. 3",
+        "genre": "Platformer",
+        "platform": [
+            "Nintendo Entertainment System",
+            "Game Boy Advance",
+            "Virtual Console",
+            "Nintendo 3DS",
+            "Wii U"
+        ],
+        "release_date": "1988-10-23",
+        "developer": "Nintendo EAD",
+        "publisher": "Nintendo",
+        "rating": 9.5,
+        "description": "Super Mario Bros. 3, Nintendo tarafından geliştirilen ve yayımlanan bir platform oyunudur. Bu klasik oyun, Mario ve Luigi'nin Prensese Peach'i kurtarmak için Kötü Bowser'a karşı savaşmasını anlatıyor. Renkli dünyalar, eğlenceli seviyeler ve unutulmaz müziklerle dolu bir macera sizi bekliyor!",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzQxNjc5MzU5OF5BMl5BanBnXkFtZTgwNjcxODg4MDE@._V1_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=92bgHaM3B5A"
+    },
+    {
+        "id": 38,
+        "title": "The Witcher 2: Assassins of Kings",
+        "genre": "Action RPG",
+        "platform": [
+            "PC",
+            "Xbox 360",
+            "Xbox One"
+        ],
+        "release_date": "2011-05-17",
+        "developer": "CD Projekt Red",
+        "publisher": "CD Projekt",
+        "rating": 9.0,
+        "description": "The Witcher 2: Assassins of Kings, CD Projekt Red tarafından geliştirilen ve yayımlanan bir aksiyon rol yapma oyunudur. Bu oyun, Witcher Geralt'ın karmaşık bir politik entrikayla başa çıkmasını anlatıyor. Karakter odaklı hikaye, geniş açık dünya ve etkileyici grafiklerle dolu bir deneyim sizi bekliyor.",
+        "image": "https://hot.game/uploads/media/game/0001/33/thumb_32723_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=HedLjjlSy3Y"
+    },
+    {
+        "id": 39,
+        "title": "The Legend of Zelda: Majora's Mask",
+        "genre": "Action-adventure",
+        "platform": [
+            "Nintendo 64",
+            "Virtual Console",
+            "Nintendo 3DS"
+        ],
+        "release_date": "2000-04-27",
+        "developer": "Nintendo EAD",
+        "publisher": "Nintendo",
+        "rating": 9.4,
+        "description": "The Legend of Zelda: Majora's Mask, Nintendo tarafından geliştirilen ve Nintendo tarafından yayımlanan bir aksiyon-macera oyunudur. Bu efsanevi oyun, karanlık bir atmosfere ve zaman döngüsü mekaniğine dayanır. Link'in zamanı geri sarma yeteneğiyle, Termina'daki kötü kaderi değiştirmek sizin elinizde!",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1ujb.jpg",
+        "trailer": "https://www.youtube.com/watch?v=fpkqNpH6TKI"
+    },
+    {
+        "id": 40,
+        "title": "Undertale",
+        "genre": "Role-playing",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation Vita",
+            "Nintendo Switch"
+        ],
+        "release_date": "2015-09-15",
+        "developer": "Toby Fox",
+        "publisher": "Toby Fox",
+        "rating": 9.0,
+        "description": "Undertale, Toby Fox tarafından geliştirilen ve yayımlanan bir rol yapma oyunudur. Bu oyun, bir çocuğun yeraltında canavarlarla dolu bir dünyayı keşfetmesini anlatıyor. Oyuncuların kararları, oyunun sonunu ve dünyanın kaderini etkiler. Kendinizi bu büyülü ve gizemli dünyaya bırakın!",
+        "image": "https://hot.game/uploads/media/game/0001/10/thumb_9361_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=1Hojv0m3TqA"
+    },
+    {
+        "id": 41,
+        "title": "Mass Effect",
+        "genre": "Action RPG",
+        "platform": [
+            "PC",
+            "Xbox 360",
+            "PlayStation 3"
+        ],
+        "release_date": "2007-11-20",
+        "developer": "BioWare",
+        "publisher": "Microsoft Game Studios",
+        "rating": 9.1,
+        "description": "Mass Effect, BioWare tarafından geliştirilen ve Microsoft Game Studios tarafından yayımlanan bir aksiyon rol yapma oyunudur. Bu epik oyun, oyuncuları uzayın derinliklerine götürür ve galaksiyi keşfetme görevine çıkarır. Karakter odaklı hikaye, unutulmaz karakterler ve zengin bir evren sizi bekliyor!",
+        "image": "https://hot.game/uploads/media/game/0001/10/thumb_9383_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=-_6ZMr2bMco"
+    },
+    {
+        "id": 42,
+        "title": "The Elder Scrolls III: Morrowind",
+        "genre": "Action RPG",
+        "platform": [
+            "PC",
+            "Xbox"
+        ],
+        "release_date": "2002-05-01",
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks",
+        "rating": 9.3,
+        "description": "The Elder Scrolls III: Morrowind, Bethesda Game Studios tarafından geliştirilen ve Bethesda Softworks tarafından yayımlanan bir aksiyon rol yapma oyunudur. Bu klasik RPG, oyuncuları Vvardenfell adasına götürür ve etkileyici bir açık dünyada maceraya atar. Derin karakter özelleştirme, eşsiz bir hikaye ve zengin bir dünya sizi bekliyor!",
+        "image": "https://hot.game/uploads/media/game/0001/07/thumb_6568_game_poster.png",
+        "trailer": "https://www.youtube.com/watch?v=Cr3TCWPlDrw"
+    },
+    {
+        "id": 43,
+        "title": "World of Warcraft",
+        "genre": "MMORPG",
+        "platform": [
+            "PC",
+            "macOS"
+        ],
+        "release_date": "2004-11-23",
+        "developer": "Blizzard Entertainment",
+        "publisher": "Blizzard Entertainment",
+        "rating": 9.2,
+        "description": "World of Warcraft, Blizzard Entertainment tarafından geliştirilen ve yayımlanan bir MMORPG oyunudur. Bu efsanevi oyun, Azeroth dünyasına dalmanızı sağlar ve milyonlarca oyuncuyla etkileşime geçmenizi sağlar. Zengin bir evren, derin karakter ilerlemesi ve sonsuz maceralar sizi bekliyor!",
+        "image": "https://hot.game/uploads/media/game/0001/04/thumb_3767_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=JyUDIZzvn7A"
+    },
+    {
+        "id": 44,
+        "title": "Fallout: New Vegas",
+        "genre": "Action RPG",
+        "platform": [
+            "PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ],
+        "release_date": "2010-10-19",
+        "developer": "Obsidian Entertainment",
+        "publisher": "Bethesda Softworks",
+        "rating": 9.0,
+        "description": "Fallout: New Vegas, Obsidian Entertainment tarafından geliştirilen ve Bethesda Softworks tarafından yayımlanan bir aksiyon rol yapma oyunudur. Bu oyun, post-apokaliptik bir dünyada geçer ve oyuncuları birçok tehlikeli maceraya sürükler. Kararlarınız dünyayı ve karakterinizi şekillendirir!",
+        "image": "https://hot.game/uploads/media/game/0001/41/thumb_40711_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=iFrOgLKN1bE"
+    },
+    {
+        "id": 45,
+        "title": "Diablo II",
+        "genre": "Action RPG",
+        "platform": [
+            "PC",
+            "macOS"
+        ],
+        "release_date": "2000-06-29",
+        "developer": "Blizzard North",
+        "publisher": "Blizzard Entertainment",
+        "rating": 9.2,
+        "description": "Diablo II, Blizzard North tarafından geliştirilen ve Blizzard Entertainment tarafından yayımlanan bir aksiyon rol yapma oyunudur. Bu efsanevi oyun, Sanctuary'nin karanlık dünyasında oyuncuları birçok canavarla dolu bir maceraya sürükler. Eşsiz sınıf sistemleri ve bağımlılık yapan oynanışı ile tanınır!",
+        "image": "https://hot.game/uploads/media/game/0001/09/thumb_8858_game_poster2.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=KxnWjyvmpnI"
+    },
+    {
+        "id": 46,
+        "title": "Star Wars: Knights of the Old Republic",
+        "genre": "Role-playing",
+        "platform": [
+            "PC",
+            "Xbox"
+        ],
+        "release_date": "2003-07-15",
+        "developer": "BioWare",
+        "publisher": "LucasArts",
+        "rating": 9.5,
+        "description": "Star Wars: Knights of the Old Republic, BioWare tarafından geliştirilen ve LucasArts tarafından yayımlanan bir rol yapma oyunudur. Bu efsanevi oyun, Jedi veya Sith olarak galaksiyi keşfetmenizi ve kaderini belirlemenizi sağlar. Derin hikaye, unutulmaz karakterler ve Star Wars evreninin derinlikleri sizi bekliyor!",
+        "image": "https://hot.game/uploads/media/game/0001/88/thumb_87344_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=MNksoLt1-Io"
+    },
+    {
+        "id": 47,
+        "title": "The Witcher",
+        "genre": "Action RPG",
+        "platform": [
+            "PC"
+        ],
+        "release_date": "2007-10-26",
+        "developer": "CD Projekt Red",
+        "publisher": "CD Projekt",
+        "rating": 9.0,
+        "description": "The Witcher, CD Projekt Red tarafından geliştirilen ve yayımlanan bir aksiyon rol yapma oyunudur. Bu oyun, Witcher Geralt'ın gizemli bir dünyada yaptığı maceraları anlatıyor. Derin karakter gelişimi, zengin bir hikaye ve etkileyici grafiklerle dolu bir deneyim sizi bekliyor!",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTBlMDk3MDktZTFkZC00YjkzLTkwMWUtYmRlNjYwMzJmNzRmXkEyXkFqcGdeQXVyOTQxNzM2MjY@._V1_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=w2F_Ti_6E_k"
+    },
+    {
+        "id": 48,
+        "title": "Super Mario Galaxy",
+        "genre": "Platformer",
+        "platform": [
+            "Wii"
+        ],
+        "release_date": "2007-11-01",
+        "developer": "Nintendo EAD Tokyo",
+        "publisher": "Nintendo",
+        "rating": 9.7,
+        "description": "Nintendo EAD Tokyo tarafından geliştirilen ve Nintendo tarafından yayımlanan bir platform oyunu olan Super Mario Galaxy, Mario'nun evreni boyunca seyahat ettiği ve çeşitli gezegenlerde maceralara atıldığı eşsiz bir deneyim sunuyor.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/76/SuperMarioGalaxy.jpg",
+        "trailer": "https://www.youtube.com/watch?v=rmN8DHZYNCg"
+    },
+    {
+        "id": 49,
+        "title": "Metroid Prime",
+        "genre": "Action-adventure",
+        "platform": [
+            "GameCube",
+            "Wii"
+        ],
+        "release_date": "2002-11-17",
+        "developer": "Retro Studios",
+        "publisher": "Nintendo",
+        "rating": 9.6,
+        "description": "Retro Studios tarafından geliştirilen ve Nintendo tarafından yayımlanan bir aksiyon-macera oyunu olan Metroid Prime, galaksinin en tehlikeli bölgelerinde Samus Aran'ı kontrol ederek keşif ve savaş deneyimi sunar.",
+        "image": "https://hot.game/uploads/media/game/0002/22/thumb_121935_game_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=kLfkkSD15zQ"
+    },
+    {
+        "id": 50,
+        "title": "The Legend of Zelda: Twilight Princess",
+        "genre": "Action-adventure",
+        "platform": [
+            "GameCube",
+            "Wii",
+            "Wii U"
+        ],
+        "release_date": "2006-11-19",
+        "developer": "Nintendo EAD",
+        "publisher": "Nintendo",
+        "rating": 9.3,
+        "description": "The Legend of Zelda: Twilight Princess, Zelda serisinin bir parçası olarak geliştirilmiş ve büyüleyici bir hikaye, zorlu bulmacalar ve heyecan verici savaşlarla dolu bir macerayı sunar. Link'in Hyrule Krallığı'nı kurtarma görevi, oyuncuları muhteşem bir dünyanın derinliklerine sürükler.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/The_Legend_of_Zelda_Twilight_Princess_Game_Cover.jpg",
+        "trailer": "https://www.youtube.com/watch?v=CPmR2kAvrqo"
+    }
+]

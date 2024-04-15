@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,600,700');
+
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #0f151b;
+    position: fixed;
+    width: 100%;
+    align-items: center;
+    top: 0;
+    z-index: 100;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+
+.Navbar-Menu ul {
+    display: flex;
+    list-style: none;
+}
+
+.Navbar-Menu li {
+    padding: 0 25px;
+    cursor: pointer;
+    color: white;
+    font-size: 17px;
+}
+
+.Navbar-Menu li:hover {
+    color: red;
+}
+
+.Navbar-Logo img {
+    margin: 12px 20px;
+    width: 170px;
+    height: auto;
+    cursor: pointer;
+    display: block;
+}
+
+
+.Navbar-MenuIcon {
+    display: none;
+}
+
+.Navbar-Menu-2 {
+    z-index: -1;
+    padding: 0 37%;
+    position: absolute;
+    top: 48px;
+    left: 0;
+    background-color: #232C38;
+    width: 100%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow-x: hidden;
+    transition: 0.5s;
+    color: white
+}
+
+.Navbar-Menu-2 li {
+    list-style: none;
+    border: 0;
+    padding: 5px;
+}
+
+
+@keyframes slidebg {
+    to {
+        background-position: 20vw;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .Navbar-Menu {
+        display: none
+    }
+
+    .Navbar-Logo img {
+        width: 110px;
+    }
+
+
+
+    .Navbar-MenuIcon {
+        display: block;
+        cursor: pointer;
+    }
+
+}
+
+.Navbar button {
+    border: 2px solid darkred;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color: #0f151b;
+    color: red;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    transition: .3s;
+}
+
+.Navbar button:hover {
+    background-color: darkred;
+    color: white;
+}

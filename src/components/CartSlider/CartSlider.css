@@ -1,0 +1,64 @@
+.card-slider {
+    margin: auto;
+    margin: 5% 0;
+}
+
+.card-slider h1 {
+    font-family: "Oswald", sans-serif;
+    color: red;
+    margin: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .card-slider {
+        padding: 0 15%;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {}
+
+.card-slider-item {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    height: 470px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #232c38;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+.card-slider-item:hover {
+   background-color: #313e4f;
+    box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-slider-item img {
+    width: 250px;
+    height: 350px;
+    margin: 20px 0;
+}
+
+.card-slider-item-img {
+    display: flex;
+    justify-content: center;
+}
+
+.card-slider-item-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.slick-slide>div {
+    margin: 0 15px 25px 0;
+
+}

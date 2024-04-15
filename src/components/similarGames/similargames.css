@@ -1,0 +1,55 @@
+.SimilarGames {
+    margin: 5% 15%;
+    font-family: "Oswald", sans-serif;
+}
+
+.SimilarGames h1 {
+    color: red;
+    margin: 20px;
+}
+
+.Similargames-item {
+    display: flex;
+    padding: 4px 4px 0 4px;
+
+}
+
+.slick-slide>div {
+    background-color: #232C38;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+.slick-slide>div:hover {
+    background-color: #313e4f;
+    box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.Similargames-item-image img {
+    width: 100px;
+    height: 140px;
+}
+
+.Similargames-item-title h3 {
+    margin: 5px 0;
+
+}
+
+.Similargames-item-title b {
+    color: #1663B8;
+}
+
+.Similargames-item-title {
+    color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .SimilarGames h1 {
+        font-size: 25px;
+    }
+
+}

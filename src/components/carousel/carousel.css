@@ -1,0 +1,10 @@
+.Carousel-box{
+    margin: 10% 0 5% 0;
+    
+}
+
+@media only screen and (max-width: 1000px){
+    .Carousel-box{
+        margin-top: 20%;
+    }
+}

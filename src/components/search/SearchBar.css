@@ -1,0 +1,89 @@
+.SearchBar {
+    margin: 10% 0;
+}
+
+.SearchBar h1 {
+    font-family: "Oswald", sans-serif;
+    color: red;
+    margin: 20px;
+}
+
+
+.SearchBar-input {
+
+    display: flex;
+    justify-content: center;
+    margin: 10% 0;
+}
+
+.SearchBar input[type=text] {
+    color: white;
+    background-color: #171D25;
+    width: 70%;
+    border: 2px solid #aaa;
+    border-radius: 4px;
+    margin: 8px 0;
+    outline: none;
+    padding: 8px;
+    box-sizing: border-box;
+    transition: .3s;
+    font-family: "Roboto", sans-serif;
+}
+
+input[type=text]:focus {
+    border-color: red;
+    box-shadow: 0 0 8px 0 red;
+}
+
+.SearchBar-Item {
+    display: flex;
+    color: white;
+    background-color: #232c38;
+    margin: 10px 0;
+    font-family: "Oswald", sans-serif;
+}
+
+.SearchBar-Item h2 {
+    width: fit-content;
+    color: red;
+    cursor: pointer;
+}
+
+.SearchBar-Item h2:hover {
+    color: rgb(115, 1, 1);
+}
+
+.SearchBar img {
+    width: 200px;
+    height: 280px;
+    margin: 20px;
+    border: 5px solid darkred;
+    border-radius: 10px;
+}
+
+.SearchBar-Item-Img {
+    display: flex;
+    align-items: center;
+}
+
+.SearchBar-Item-Info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+@media only screen and (max-width: 800px) {
+    .SearchBar h1 {
+        padding: 0 15%;
+    }
+
+    .SearchBar-Item {
+        flex-wrap: wrap;
+        margin: 20px 20px;
+    }
+    .SearchBar-Item-Info{
+        margin: 20px;
+    }
+
+}
